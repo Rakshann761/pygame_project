@@ -7,5 +7,5 @@
 !<img src=".png"  height="600" width="600"/>
 ###
 !<img src=".png"  height="600" width="600"/>
-###
+### Zombie Knight
 !<img src="zombie_knight_game/zombieknight.png" alt="Game Interface" height="600" width="600"/>
