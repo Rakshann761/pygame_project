@@ -7,6 +7,6 @@
 - Collect the ruby to gain health and points.
 - health decreases when you collide with zombie.
 
-#Game Interface
-!<img src="zombieknight.png" alt="Game Interface" width="400"/>
+# Game Interface
+!<img src="zombieknight.png" alt="Game Interface" width="600"/>
 
