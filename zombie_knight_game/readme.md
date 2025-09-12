@@ -8,5 +8,5 @@
 - health decreases when you collide with zombie.
 
 # Game Interface
-!<img src="zombieknight.png" alt="Game Interface" width="600"/>
+!<img src="zombieknight.png" alt="Game Interface" height="600" width="600"/>
 
